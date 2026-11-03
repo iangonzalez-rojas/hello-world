@@ -1,7 +1,7 @@
 import random
 
 def jugar():
-    opciones = ["piedra", "papel", "tijera"]
+    opciones = ["piedra", "papel", "pistola"]
     
     print("--- ¡Bienvenido a Piedra, Papel o Tijera! ---")
     
