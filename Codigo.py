@@ -3,7 +3,7 @@ import random
 def jugar():
     opciones = ["piedra", "papel", "pistola"]
     
-    print("--- ¡Bienvenido a Piedra, Papel o Tijera! ---")
+    print("--- ¡Bienvenido al Cachipún! ---")
     
     while True:
         usuario = input("\nElige piedra, papel o tijera (o escribe 'salir' para terminar): ").lower().strip()
